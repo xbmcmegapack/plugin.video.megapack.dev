@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--
+    This file is part of XBMC Mega Pack Addon.
+
+    Copyright (C) 2014 Wolverine (xbmcmegapack@gmail.com)
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License along
+    with this program.  If not, see http://www.gnu.org/licenses/gpl-3.0.html
+-->
+<addon
+    id            = "plugin.video.megapack"
+    name          = "Mega Pack" 
+    version       = "0.0.2" 
+    provider-name = "Wolverine">
+
+    <!-- IT WILL BE ADDED ONLY AT INSTALL, HOW TO ADD AN ADDON DEPENDENCY AFTER INSTALLATION? <requires>
+    	<import addon="plugin.video.barbecueweb"                 version="1.0.2"/>
+    </requires>-->
+  
+    <extension point="xbmc.python.pluginsource" library="addon.py">
+        <provides>video</provides>
+    </extension>
+
+    <extension point="xbmc.addon.metadata">
+        <language>en</language>
+        <platform>all</platform>
+        <summary lang="en">Mega Pack</summary>
+        <description lang="en">
+This international and multilingual plugin offers a ton of multimedia streams grouped by countries, languages, types, genres, channels...
+
+It's fully configurable to view only the menus and the media you want.
+
+Simple, ergonomic and easy to use via a beautiful library of icons for a rich multimedia experience.
+
+Whether sporting events of the moment, a film, a TV series, everything is up to you to enjoy!
+
+As a bonus, a very complete Kids' Zone!
+        </description>
+        <description lang="fr">
+Ce plugin international et multilingue offre une tonne de flux multimédias regroupés par pays, par langues, par types, par genres, par chaînes..
+
+Il est entièrement configurable pour ne voir que les menus et médias qui vous intéressent.
+
+Simplicité, ergonomie, et facile d'utilisation via une très belle librairie d'icônes pour une expérience multimédia riche.
+
+Que ce soit les évènements sportifs du moment, un film, une série télé, tout y est ! À vous d'en profiter !
+
+En prime, une zone pour enfants ultra complète !
+        </description>
+    </extension>
+
+</addon>

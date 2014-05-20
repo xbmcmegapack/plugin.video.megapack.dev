@@ -1,0 +1,620 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--
+"""
+    This file is part of XBMC Mega Pack Addon.
+
+    Copyright (C) 2014 Wolverine (xbmcmegapack@gmail.com)
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License along
+    with this program.  If not, see http://www.gnu.org/licenses/gpl-3.0.html
+"""
+
+-->
+<settings>
+    <category label="30001"><!--General-->
+        <setting id="30002" label="30002" type="lsep" />
+        <setting id="30003" label="30003" type="labelenum" default="720p" values="240p|360p|480p|720p|1080p|3D|4K" />
+        <setting id="30004" label="30004" type="labelenum" default="5.1" values="1.0|2.0|5.1|7.1|9.1|11.1|10.2|22.2" />
+    </category>
+    <category label="30005"><!--Home Menu-->
+        <setting id="30006" label="30006" type="lsep" />
+        <setting id="30007" label="30007" type="bool" default="true" />
+        <setting id="30008" label="30008" type="bool" default="true" />
+        <setting id="30009" label="30009" type="bool" default="true" />
+        <setting id="30010" label="30010" type="bool" default="true" />
+        <setting id="30011" label="30011" type="bool" default="true" />
+        <setting id="30012" label="30012" type="bool" default="true" />
+        <setting id="30013" label="30013" type="bool" default="true" />
+        <setting id="30014" label="30014" type="bool" default="true" />
+        <setting id="30015" label="30015" type="bool" default="true" />
+        <setting id="30016" label="30016" type="bool" default="true" />
+        <setting id="30017" label="30017" type="bool" default="true" />
+        <setting id="30018" label="30018" type="bool" default="true" />
+        <setting id="30019" label="30019" type="bool" default="true" />
+        <setting id="30020" label="30020" type="bool" default="true" />
+    </category>
+    <category label="30021"><!--Genres-->
+        <setting id="30022" label="30022" type="lsep" />
+        <setting id="30023" label="30023" type="bool" default="true" />
+        <setting id="30024" label="30024" type="bool" default="true" />
+        <setting id="30025" label="30025" type="bool" default="true" />
+        <setting id="30026" label="30026" type="bool" default="true" />
+        <setting id="30027" label="30027" type="bool" default="true" />
+        <setting id="30028" label="30028" type="bool" default="true" />
+        <setting id="30029" label="30029" type="bool" default="true" />
+        <setting id="30030" label="30030" type="bool" default="true" />
+        <setting id="30031" label="30031" type="bool" default="true" />
+        <setting id="30032" label="30032" type="bool" default="true" />
+        <setting id="30033" label="30033" type="bool" default="true" />
+        <setting id="30034" label="30034" type="bool" default="true" />
+        <setting id="30035" label="30035" type="bool" default="true" />
+        <setting id="30036" label="30036" type="bool" default="true" />
+        <setting id="30037" label="30037" type="bool" default="true" />
+        <setting id="30038" label="30038" type="bool" default="true" />
+        <setting id="30039" label="30039" type="bool" default="true" />
+        <setting id="30040" label="30040" type="bool" default="true" />
+        <setting id="30041" label="30041" type="bool" default="true" />
+        <setting id="30042" label="30042" type="bool" default="true" />
+        <setting id="30043" label="30043" type="bool" default="true" />
+        <setting id="30044" label="30044" type="bool" default="true" />
+        <setting id="30045" label="30045" type="bool" default="true" />
+        <setting id="30046" label="30046" type="bool" default="true" />
+        <setting id="30047" label="30047" type="bool" default="true" />
+        <setting id="30048" label="30048" type="bool" default="true" />
+        <setting id="30049" label="30049" type="bool" default="true" />
+        <setting id="30050" label="30050" type="bool" default="true" />
+        <setting id="30051" label="30051" type="bool" default="true" />
+        <setting id="30052" label="30052" type="bool" default="true" />
+    </category>
+    <category label="30053"><!--Topics-->
+        <setting id="30054" label="30054" type="lsep" />
+        <setting id="30055" label="30055" type="bool" default="true" />
+        <setting id="30056" label="30056" type="bool" default="true" />
+        <setting id="30057" label="30057" type="bool" default="true" />
+        <setting id="30058" label="30058" type="bool" default="true" />
+        <setting id="30059" label="30059" type="bool" default="true" />
+        <setting id="30060" label="30060" type="bool" default="true" />
+        <setting id="30061" label="30061" type="bool" default="true" />
+        <setting id="30062" label="30062" type="bool" default="true" />
+        <setting id="30063" label="30063" type="bool" default="true" />
+        <setting id="30064" label="30064" type="bool" default="true" />
+        <setting id="30065" label="30065" type="bool" default="true" />
+        <setting id="30066" label="30066" type="bool" default="true" />
+        <setting id="30067" label="30067" type="bool" default="true" />
+        <setting id="30068" label="30068" type="bool" default="true" />
+        <setting id="30069" label="30069" type="bool" default="true" />
+        <setting id="30070" label="30070" type="bool" default="true" />
+        <setting id="30071" label="30071" type="bool" default="true" />
+        <setting id="30072" label="30072" type="bool" default="true" />
+        <setting id="30073" label="30073" type="bool" default="true" />
+        <setting id="30074" label="30074" type="bool" default="true" />
+        <setting id="30075" label="30075" type="bool" default="true" />
+        <setting id="30076" label="30076" type="bool" default="true" />
+        <setting id="30077" label="30077" type="bool" default="true" />
+        <setting id="30078" label="30078" type="bool" default="true" />
+        <setting id="30079" label="30079" type="bool" default="true" />
+        <setting id="30080" label="30080" type="bool" default="true" />
+        <setting id="30081" label="30081" type="bool" default="true" />
+        <setting id="30082" label="30082" type="bool" default="true" />
+        <setting id="30083" label="30083" type="bool" default="true" />
+        <setting id="30084" label="30084" type="bool" default="true" />
+        <setting id="30085" label="30085" type="bool" default="true" />
+    </category>
+    <category label="30086"><!--Sports-->
+        <setting id="30087" label="30087" type="lsep" />
+        <setting id="30088" label="30088" type="bool" default="true" />
+        <setting id="30089" label="30089" type="bool" default="true" />
+        <setting id="30090" label="30090" type="bool" default="true" />
+        <setting id="30091" label="30091" type="bool" default="true" />
+        <setting id="30092" label="30092" type="bool" default="true" />
+        <setting id="30093" label="30093" type="bool" default="true" />
+        <setting id="30094" label="30094" type="bool" default="true" />
+        <setting id="30095" label="30095" type="bool" default="true" />
+        <setting id="30096" label="30096" type="bool" default="true" />
+        <setting id="30097" label="30097" type="bool" default="true" />
+        <setting id="30098" label="30098" type="bool" default="true" />
+        <setting id="30099" label="30099" type="bool" default="true" />
+        <setting id="30100" label="30100" type="bool" default="true" />
+        <setting id="30101" label="30101" type="bool" default="true" />
+        <setting id="30102" label="30102" type="bool" default="true" />
+        <setting id="30103" label="30103" type="bool" default="true" />
+        <setting id="30104" label="30104" type="bool" default="true" />
+        <setting id="30105" label="30105" type="bool" default="true" />
+        <setting id="30106" label="30106" type="bool" default="true" />
+        <setting id="30107" label="30107" type="bool" default="true" />
+        <setting id="30108" label="30108" type="bool" default="true" />
+        <setting id="30109" label="30109" type="bool" default="true" />
+        <setting id="30110" label="30110" type="bool" default="true" />
+        <setting id="30111" label="30111" type="bool" default="true" />
+        <setting id="30112" label="30112" type="bool" default="true" />
+    </category>
+    <category label="30113"><!--Channels-->
+        <setting id="30114" label="30114" type="lsep" />
+        <setting id="30115" label="30115" type="bool" default="true" />
+        <setting id="30116" label="30116" type="bool" default="true" />
+        <setting id="30117" label="30117" type="bool" default="true" />
+        <setting id="30118" label="30118" type="bool" default="true" />
+        <setting id="30119" label="30119" type="bool" default="true" />
+        <setting id="30120" label="30120" type="bool" default="true" />
+        <setting id="30121" label="30121" type="bool" default="true" />
+        <setting id="30122" label="30122" type="bool" default="true" />
+        <setting id="30123" label="30123" type="bool" default="true" />
+        <setting id="30124" label="30124" type="bool" default="true" />
+        <setting id="30125" label="30125" type="bool" default="true" />
+        <setting id="30126" label="30126" type="bool" default="true" />
+        <setting id="30127" label="30127" type="bool" default="true" />
+        <setting id="30128" label="30128" type="bool" default="true" />
+        <setting id="30129" label="30129" type="bool" default="true" />
+        <setting id="30130" label="30130" type="bool" default="true" />
+        <setting id="30131" label="30131" type="bool" default="true" />
+        <setting id="30132" label="30132" type="bool" default="true" />
+        <setting id="30133" label="30133" type="bool" default="true" />
+        <setting id="30134" label="30134" type="bool" default="true" />
+        <setting id="30135" label="30135" type="bool" default="true" />
+        <setting id="30136" label="30136" type="bool" default="true" />
+        <setting id="30137" label="30137" type="bool" default="true" />
+        <setting id="30138" label="30138" type="bool" default="true" />
+    </category>
+    <category label="30139"><!--Features-->
+        <setting id="30140" label="30140" type="lsep" />
+        <setting id="30141" label="30141" type="bool" default="true" />
+    </category>
+    <category label="30142"><!--Languages (1) -->
+        <setting id="30143" label="30143" type="lsep" />
+        <setting id="30144" label="30144" type="bool" default="false" />
+        <setting id="30145" label="30145" type="bool" default="false" />
+        <setting id="30146" label="30146" type="bool" default="false" />
+        <setting id="30147" label="30147" type="bool" default="false" />
+        <setting id="30148" label="30148" type="bool" default="false" />
+        <setting id="30149" label="30149" type="bool" default="false" />
+        <setting id="30150" label="30150" type="bool" default="false" />
+        <setting id="30151" label="30151" type="bool" default="false" />
+        <setting id="30152" label="30152" type="bool" default="false" />
+        <setting id="30153" label="30153" type="bool" default="false" />
+        <setting id="30154" label="30154" type="bool" default="false" />
+        <setting id="30155" label="30155" type="bool" default="false" />
+        <setting id="30156" label="30156" type="bool" default="false" />
+        <setting id="30157" label="30157" type="bool" default="false" />
+        <setting id="30158" label="30158" type="bool" default="false" />
+        <setting id="30159" label="30159" type="bool" default="false" />
+        <setting id="30160" label="30160" type="bool" default="false" />
+        <setting id="30161" label="30161" type="bool" default="false" />
+        <setting id="30162" label="30162" type="bool" default="false" />
+        <setting id="30163" label="30163" type="bool" default="false" />
+        <setting id="30164" label="30164" type="bool" default="false" />
+        <setting id="30165" label="30165" type="bool" default="false" />
+        <setting id="30166" label="30166" type="bool" default="false" />
+        <setting id="30167" label="30167" type="bool" default="false" />
+        <setting id="30168" label="30168" type="bool" default="false" />
+        <setting id="30169" label="30169" type="bool" default="false" />
+        <setting id="30170" label="30170" type="bool" default="false" />
+        <setting id="30171" label="30171" type="bool" default="false" />
+        <setting id="30172" label="30172" type="bool" default="false" />
+        <setting id="30173" label="30173" type="bool" default="false" />
+        <setting id="30174" label="30174" type="bool" default="false" />
+        <setting id="30175" label="30175" type="bool" default="false" />
+        <setting id="30176" label="30176" type="bool" default="false" />
+        <setting id="30177" label="30177" type="bool" default="false" />
+        <setting id="30178" label="30178" type="bool" default="false" />
+        <setting id="30179" label="30179" type="bool" default="false" />
+        <setting id="30180" label="30180" type="bool" default="false" />
+        <setting id="30181" label="30181" type="bool" default="false" />
+        <setting id="30182" label="30182" type="bool" default="false" />
+        <setting id="30183" label="30183" type="bool" default="false" />
+        <setting id="30184" label="30184" type="bool" default="false" />
+        <setting id="30185" label="30185" type="bool" default="false" />
+        <setting id="30186" label="30186" type="bool" default="false" />
+        <setting id="30187" label="30187" type="bool" default="false" />
+        <setting id="30188" label="30188" type="bool" default="false" />
+        <setting id="30189" label="30189" type="bool" default="false" />
+        <setting id="30190" label="30190" type="bool" default="false" />
+        <setting id="30191" label="30191" type="bool" default="false" />
+        <setting id="30192" label="30192" type="bool" default="false" />
+        <setting id="30193" label="30193" type="bool" default="false" />
+        <setting id="30194" label="30194" type="bool" default="false" />
+        <setting id="30195" label="30195" type="bool" default="false" />
+        <setting id="30196" label="30196" type="bool" default="false" />
+        <setting id="30197" label="30197" type="bool" default="false" />
+        <setting id="30198" label="30198" type="bool" default="false" />
+        <setting id="30199" label="30199" type="bool" default="false" />
+        <setting id="30200" label="30200" type="bool" default="false" />
+        <setting id="30201" label="30201" type="bool" default="false" />
+        <setting id="30202" label="30202" type="bool" default="false" />
+        <setting id="30203" label="30203" type="bool" default="false" />
+        <setting id="30204" label="30204" type="bool" default="false" />
+        <setting id="30205" label="30205" type="bool" default="false" />
+        <setting id="30206" label="30206" type="bool" default="false" />
+        <setting id="30207" label="30207" type="bool" default="false" />
+        <setting id="30208" label="30208" type="bool" default="false" />
+        <setting id="30209" label="30209" type="bool" default="false" />
+        <setting id="30210" label="30210" type="bool" default="false" />
+        <setting id="30211" label="30211" type="bool" default="false" />
+        <setting id="30212" label="30212" type="bool" default="false" />
+        <setting id="30213" label="30213" type="bool" default="false" />
+        <setting id="30214" label="30214" type="bool" default="false" />
+        <setting id="30215" label="30215" type="bool" default="false" />
+        <setting id="30216" label="30216" type="bool" default="false" />
+        <setting id="30217" label="30217" type="bool" default="false" />
+        <setting id="30218" label="30218" type="bool" default="false" />
+        <setting id="30219" label="30219" type="bool" default="false" />
+        <setting id="30220" label="30220" type="bool" default="false" />
+        <setting id="30221" label="30221" type="bool" default="false" />
+        <setting id="30222" label="30222" type="bool" default="false" />
+        <setting id="30223" label="30223" type="bool" default="false" />
+        <setting id="30224" label="30224" type="bool" default="false" />
+        <setting id="30225" label="30225" type="bool" default="false" />
+        <setting id="30226" label="30226" type="bool" default="false" />
+        <setting id="30227" label="30227" type="bool" default="false" />
+        <setting id="30228" label="30228" type="bool" default="false" />
+        <setting id="30229" label="30229" type="bool" default="false" />
+        <setting id="30230" label="30230" type="bool" default="false" />
+        <setting id="30231" label="30231" type="bool" default="false" />
+        <setting id="30232" label="30232" type="bool" default="false" />
+        <setting id="30233" label="30233" type="bool" default="false" />
+        <setting id="30234" label="30234" type="bool" default="false" />
+        <setting id="30235" label="30235" type="bool" default="false" />
+        <setting id="30236" label="30236" type="bool" default="false" />
+        <setting id="30237" label="30237" type="bool" default="false" />
+        <setting id="30238" label="30238" type="bool" default="false" />
+        <setting id="30239" label="30239" type="bool" default="false" />
+        <setting id="30240" label="30240" type="bool" default="false" />
+        <setting id="30241" label="30241" type="bool" default="false" />
+    </category>
+    <category label="30242"><!--Languages (2) -->
+        <setting id="30243" label="30243" type="lsep" />
+        <setting id="30244" label="30244" type="bool" default="false" />
+        <setting id="30245" label="30245" type="bool" default="false" />
+        <setting id="30246" label="30246" type="bool" default="false" />
+        <setting id="30247" label="30247" type="bool" default="false" />
+        <setting id="30248" label="30248" type="bool" default="false" />
+        <setting id="30249" label="30249" type="bool" default="false" />
+        <setting id="30250" label="30250" type="bool" default="false" />
+        <setting id="30251" label="30251" type="bool" default="false" />
+        <setting id="30252" label="30252" type="bool" default="false" />
+        <setting id="30253" label="30253" type="bool" default="false" />
+        <setting id="30254" label="30254" type="bool" default="false" />
+        <setting id="30255" label="30255" type="bool" default="false" />
+        <setting id="30256" label="30256" type="bool" default="false" />
+        <setting id="30257" label="30257" type="bool" default="false" />
+        <setting id="30258" label="30258" type="bool" default="false" />
+        <setting id="30259" label="30259" type="bool" default="false" />
+        <setting id="30260" label="30260" type="bool" default="false" />
+        <setting id="30261" label="30261" type="bool" default="false" />
+        <setting id="30262" label="30262" type="bool" default="false" />
+        <setting id="30263" label="30263" type="bool" default="false" />
+        <setting id="30264" label="30264" type="bool" default="false" />
+        <setting id="30265" label="30265" type="bool" default="false" />
+        <setting id="30266" label="30266" type="bool" default="false" />
+        <setting id="30267" label="30267" type="bool" default="false" />
+        <setting id="30268" label="30268" type="bool" default="false" />
+        <setting id="30269" label="30269" type="bool" default="false" />
+        <setting id="30270" label="30270" type="bool" default="false" />
+        <setting id="30271" label="30271" type="bool" default="false" />
+        <setting id="30272" label="30272" type="bool" default="false" />
+        <setting id="30273" label="30273" type="bool" default="false" />
+        <setting id="30274" label="30274" type="bool" default="false" />
+        <setting id="30275" label="30275" type="bool" default="false" />
+        <setting id="30276" label="30276" type="bool" default="false" />
+        <setting id="30277" label="30277" type="bool" default="false" />
+        <setting id="30278" label="30278" type="bool" default="false" />
+        <setting id="30279" label="30279" type="bool" default="false" />
+        <setting id="30280" label="30280" type="bool" default="false" />
+        <setting id="30281" label="30281" type="bool" default="false" />
+        <setting id="30282" label="30282" type="bool" default="false" />
+        <setting id="30283" label="30283" type="bool" default="false" />
+        <setting id="30284" label="30284" type="bool" default="false" />
+        <setting id="30285" label="30285" type="bool" default="false" />
+        <setting id="30286" label="30286" type="bool" default="false" />
+        <setting id="30287" label="30287" type="bool" default="false" />
+        <setting id="30288" label="30288" type="bool" default="false" />
+        <setting id="30289" label="30289" type="bool" default="false" />
+        <setting id="30290" label="30290" type="bool" default="false" />
+        <setting id="30291" label="30291" type="bool" default="false" />
+        <setting id="30292" label="30292" type="bool" default="false" />
+        <setting id="30293" label="30293" type="bool" default="false" />
+        <setting id="30294" label="30294" type="bool" default="false" />
+        <setting id="30295" label="30295" type="bool" default="false" />
+        <setting id="30296" label="30296" type="bool" default="false" />
+        <setting id="30297" label="30297" type="bool" default="false" />
+        <setting id="30298" label="30298" type="bool" default="false" />
+        <setting id="30299" label="30299" type="bool" default="false" />
+        <setting id="30300" label="30300" type="bool" default="false" />
+        <setting id="30301" label="30301" type="bool" default="false" />
+        <setting id="30302" label="30302" type="bool" default="false" />
+        <setting id="30303" label="30303" type="bool" default="false" />
+        <setting id="30304" label="30304" type="bool" default="false" />
+        <setting id="30305" label="30305" type="bool" default="false" />
+        <setting id="30306" label="30306" type="bool" default="false" />
+        <setting id="30307" label="30307" type="bool" default="false" />
+        <setting id="30308" label="30308" type="bool" default="false" />
+        <setting id="30309" label="30309" type="bool" default="false" />
+        <setting id="30310" label="30310" type="bool" default="false" />
+        <setting id="30311" label="30311" type="bool" default="false" />
+        <setting id="30312" label="30312" type="bool" default="false" />
+        <setting id="30313" label="30313" type="bool" default="false" />
+        <setting id="30314" label="30314" type="bool" default="false" />
+        <setting id="30315" label="30315" type="bool" default="false" />
+        <setting id="30316" label="30316" type="bool" default="false" />
+        <setting id="30317" label="30317" type="bool" default="false" />
+        <setting id="30318" label="30318" type="bool" default="false" />
+        <setting id="30319" label="30319" type="bool" default="false" />
+        <setting id="30320" label="30320" type="bool" default="false" />
+        <setting id="30321" label="30321" type="bool" default="false" />
+        <setting id="30322" label="30322" type="bool" default="false" />
+        <setting id="30323" label="30323" type="bool" default="false" />
+        <setting id="30324" label="30324" type="bool" default="false" />
+        <setting id="30325" label="30325" type="bool" default="false" />
+        <setting id="30326" label="30326" type="bool" default="false" />
+        <setting id="30327" label="30327" type="bool" default="false" />
+        <setting id="30328" label="30328" type="bool" default="false" />
+        <setting id="30329" label="30329" type="bool" default="false" />
+    </category>
+    <category label="30330"><!--Countries (1) -->
+        <setting id="30331" label="30331" type="lsep" />
+        <setting id="30332" label="30332" type="bool" default="false" />
+        <setting id="30333" label="30333" type="bool" default="false" />
+        <setting id="30334" label="30334" type="bool" default="false" />
+        <setting id="30335" label="30335" type="bool" default="false" />
+        <setting id="30336" label="30336" type="bool" default="false" />
+        <setting id="30337" label="30337" type="bool" default="false" />
+        <setting id="30338" label="30338" type="bool" default="false" />
+        <setting id="30339" label="30339" type="bool" default="false" />
+        <setting id="30340" label="30340" type="bool" default="false" />
+        <setting id="30341" label="30341" type="bool" default="false" />
+        <setting id="30342" label="30342" type="bool" default="false" />
+        <setting id="30343" label="30343" type="bool" default="false" />
+        <setting id="30344" label="30344" type="bool" default="false" />
+        <setting id="30345" label="30345" type="bool" default="false" />
+        <setting id="30346" label="30346" type="bool" default="false" />
+        <setting id="30347" label="30347" type="bool" default="false" />
+        <setting id="30348" label="30348" type="bool" default="false" />
+        <setting id="30349" label="30349" type="bool" default="false" />
+        <setting id="30350" label="30350" type="bool" default="false" />
+        <setting id="30351" label="30351" type="bool" default="false" />
+        <setting id="30352" label="30352" type="bool" default="false" />
+        <setting id="30353" label="30353" type="bool" default="false" />
+        <setting id="30354" label="30354" type="bool" default="false" />
+        <setting id="30355" label="30355" type="bool" default="false" />
+        <setting id="30356" label="30356" type="bool" default="false" />
+        <setting id="30357" label="30357" type="bool" default="false" />
+        <setting id="30358" label="30358" type="bool" default="false" />
+        <setting id="30359" label="30359" type="bool" default="false" />
+        <setting id="30360" label="30360" type="bool" default="false" />
+        <setting id="30361" label="30361" type="bool" default="false" />
+        <setting id="30362" label="30362" type="bool" default="false" />
+        <setting id="30363" label="30363" type="bool" default="false" />
+        <setting id="30364" label="30364" type="bool" default="false" />
+        <setting id="30365" label="30365" type="bool" default="false" />
+        <setting id="30366" label="30366" type="bool" default="false" />
+        <setting id="30367" label="30367" type="bool" default="false" />
+        <setting id="30368" label="30368" type="bool" default="false" />
+        <setting id="30369" label="30369" type="bool" default="false" />
+        <setting id="30370" label="30370" type="bool" default="false" />
+        <setting id="30371" label="30371" type="bool" default="false" />
+        <setting id="30372" label="30372" type="bool" default="false" />
+        <setting id="30373" label="30373" type="bool" default="false" />
+        <setting id="30374" label="30374" type="bool" default="false" />
+        <setting id="30375" label="30375" type="bool" default="false" />
+        <setting id="30376" label="30376" type="bool" default="false" />
+        <setting id="30377" label="30377" type="bool" default="false" />
+        <setting id="30378" label="30378" type="bool" default="false" />
+        <setting id="30379" label="30379" type="bool" default="false" />
+        <setting id="30380" label="30380" type="bool" default="false" />
+        <setting id="30381" label="30381" type="bool" default="false" />
+        <setting id="30382" label="30382" type="bool" default="false" />
+        <setting id="30383" label="30383" type="bool" default="false" />
+        <setting id="30384" label="30384" type="bool" default="false" />
+        <setting id="30385" label="30385" type="bool" default="false" />
+        <setting id="30386" label="30386" type="bool" default="false" />
+        <setting id="30387" label="30387" type="bool" default="false" />
+        <setting id="30388" label="30388" type="bool" default="false" />
+        <setting id="30389" label="30389" type="bool" default="false" />
+        <setting id="30390" label="30390" type="bool" default="false" />
+        <setting id="30391" label="30391" type="bool" default="false" />
+        <setting id="30392" label="30392" type="bool" default="false" />
+        <setting id="30393" label="30393" type="bool" default="false" />
+        <setting id="30394" label="30394" type="bool" default="false" />
+        <setting id="30395" label="30395" type="bool" default="false" />
+        <setting id="30396" label="30396" type="bool" default="false" />
+        <setting id="30397" label="30397" type="bool" default="false" />
+        <setting id="30398" label="30398" type="bool" default="false" />
+        <setting id="30399" label="30399" type="bool" default="false" />
+        <setting id="30400" label="30400" type="bool" default="false" />
+        <setting id="30401" label="30401" type="bool" default="false" />
+        <setting id="30402" label="30402" type="bool" default="false" />
+        <setting id="30403" label="30403" type="bool" default="false" />
+        <setting id="30404" label="30404" type="bool" default="false" />
+        <setting id="30405" label="30405" type="bool" default="false" />
+        <setting id="30406" label="30406" type="bool" default="false" />
+        <setting id="30407" label="30407" type="bool" default="false" />
+        <setting id="30408" label="30408" type="bool" default="false" />
+        <setting id="30409" label="30409" type="bool" default="false" />
+        <setting id="30410" label="30410" type="bool" default="false" />
+        <setting id="30411" label="30411" type="bool" default="false" />
+        <setting id="30412" label="30412" type="bool" default="false" />
+        <setting id="30413" label="30413" type="bool" default="false" />
+        <setting id="30414" label="30414" type="bool" default="false" />
+        <setting id="30415" label="30415" type="bool" default="false" />
+        <setting id="30416" label="30416" type="bool" default="false" />
+        <setting id="30417" label="30417" type="bool" default="false" />
+        <setting id="30418" label="30418" type="bool" default="false" />
+        <setting id="30419" label="30419" type="bool" default="false" />
+        <setting id="30420" label="30420" type="bool" default="false" />
+        <setting id="30421" label="30421" type="bool" default="false" />
+        <setting id="30422" label="30422" type="bool" default="false" />
+        <setting id="30423" label="30423" type="bool" default="false" />
+        <setting id="30424" label="30424" type="bool" default="false" />
+        <setting id="30425" label="30425" type="bool" default="false" />
+        <setting id="30426" label="30426" type="bool" default="false" />
+        <setting id="30427" label="30427" type="bool" default="false" />
+    </category>
+    <category label="30428"><!--Countries (2) -->
+        <setting id="30429" label="30429" type="lsep" />
+        <setting id="30430" label="30430" type="bool" default="false" />
+        <setting id="30431" label="30431" type="bool" default="false" />
+        <setting id="30432" label="30432" type="bool" default="false" />
+        <setting id="30433" label="30433" type="bool" default="false" />
+        <setting id="30434" label="30434" type="bool" default="false" />
+        <setting id="30435" label="30435" type="bool" default="false" />
+        <setting id="30436" label="30436" type="bool" default="false" />
+        <setting id="30437" label="30437" type="bool" default="false" />
+        <setting id="30438" label="30438" type="bool" default="false" />
+        <setting id="30439" label="30439" type="bool" default="false" />
+        <setting id="30440" label="30440" type="bool" default="false" />
+        <setting id="30441" label="30441" type="bool" default="false" />
+        <setting id="30442" label="30442" type="bool" default="false" />
+        <setting id="30443" label="30443" type="bool" default="false" />
+        <setting id="30444" label="30444" type="bool" default="false" />
+        <setting id="30445" label="30445" type="bool" default="false" />
+        <setting id="30446" label="30446" type="bool" default="false" />
+        <setting id="30447" label="30447" type="bool" default="false" />
+        <setting id="30448" label="30448" type="bool" default="false" />
+        <setting id="30449" label="30449" type="bool" default="false" />
+        <setting id="30450" label="30450" type="bool" default="false" />
+        <setting id="30451" label="30451" type="bool" default="false" />
+        <setting id="30452" label="30452" type="bool" default="false" />
+        <setting id="30453" label="30453" type="bool" default="false" />
+        <setting id="30454" label="30454" type="bool" default="false" />
+        <setting id="30455" label="30455" type="bool" default="false" />
+        <setting id="30456" label="30456" type="bool" default="false" />
+        <setting id="30457" label="30457" type="bool" default="false" />
+        <setting id="30458" label="30458" type="bool" default="false" />
+        <setting id="30459" label="30459" type="bool" default="false" />
+        <setting id="30460" label="30460" type="bool" default="false" />
+        <setting id="30461" label="30461" type="bool" default="false" />
+        <setting id="30462" label="30462" type="bool" default="false" />
+        <setting id="30463" label="30463" type="bool" default="false" />
+        <setting id="30464" label="30464" type="bool" default="false" />
+        <setting id="30465" label="30465" type="bool" default="false" />
+        <setting id="30466" label="30466" type="bool" default="false" />
+        <setting id="30467" label="30467" type="bool" default="false" />
+        <setting id="30468" label="30468" type="bool" default="false" />
+        <setting id="30469" label="30469" type="bool" default="false" />
+        <setting id="30470" label="30470" type="bool" default="false" />
+        <setting id="30471" label="30471" type="bool" default="false" />
+        <setting id="30472" label="30472" type="bool" default="false" />
+        <setting id="30473" label="30473" type="bool" default="false" />
+        <setting id="30474" label="30474" type="bool" default="false" />
+        <setting id="30475" label="30475" type="bool" default="false" />
+        <setting id="30476" label="30476" type="bool" default="false" />
+        <setting id="30477" label="30477" type="bool" default="false" />
+        <setting id="30478" label="30478" type="bool" default="false" />
+        <setting id="30479" label="30479" type="bool" default="false" />
+        <setting id="30480" label="30480" type="bool" default="false" />
+        <setting id="30481" label="30481" type="bool" default="false" />
+        <setting id="30482" label="30482" type="bool" default="false" />
+        <setting id="30483" label="30483" type="bool" default="false" />
+        <setting id="30484" label="30484" type="bool" default="false" />
+        <setting id="30485" label="30485" type="bool" default="false" />
+        <setting id="30486" label="30486" type="bool" default="false" />
+        <setting id="30487" label="30487" type="bool" default="false" />
+        <setting id="30488" label="30488" type="bool" default="false" />
+        <setting id="30489" label="30489" type="bool" default="false" />
+        <setting id="30490" label="30490" type="bool" default="false" />
+        <setting id="30491" label="30491" type="bool" default="false" />
+        <setting id="30492" label="30492" type="bool" default="false" />
+        <setting id="30493" label="30493" type="bool" default="false" />
+        <setting id="30494" label="30494" type="bool" default="false" />
+        <setting id="30495" label="30495" type="bool" default="false" />
+        <setting id="30496" label="30496" type="bool" default="false" />
+        <setting id="30497" label="30497" type="bool" default="false" />
+        <setting id="30498" label="30498" type="bool" default="false" />
+        <setting id="30499" label="30499" type="bool" default="false" />
+        <setting id="30500" label="30500" type="bool" default="false" />
+        <setting id="30501" label="30501" type="bool" default="false" />
+        <setting id="30502" label="30502" type="bool" default="false" />
+        <setting id="30503" label="30503" type="bool" default="false" />
+        <setting id="30504" label="30504" type="bool" default="false" />
+        <setting id="30505" label="30505" type="bool" default="false" />
+        <setting id="30506" label="30506" type="bool" default="false" />
+        <setting id="30507" label="30507" type="bool" default="false" />
+        <setting id="30508" label="30508" type="bool" default="false" />
+        <setting id="30509" label="30509" type="bool" default="false" />
+        <setting id="30510" label="30510" type="bool" default="false" />
+        <setting id="30511" label="30511" type="bool" default="false" />
+        <setting id="30512" label="30512" type="bool" default="false" />
+        <setting id="30513" label="30513" type="bool" default="false" />
+        <setting id="30514" label="30514" type="bool" default="false" />
+        <setting id="30515" label="30515" type="bool" default="false" />
+        <setting id="30516" label="30516" type="bool" default="false" />
+        <setting id="30517" label="30517" type="bool" default="false" />
+        <setting id="30518" label="30518" type="bool" default="false" />
+        <setting id="30519" label="30519" type="bool" default="false" />
+        <setting id="30520" label="30520" type="bool" default="false" />
+    </category>
+    <category label="30521"><!--Countries (3) -->
+        <setting id="30522" label="30522" type="lsep" />
+        <setting id="30523" label="30523" type="bool" default="false" />
+        <setting id="30524" label="30524" type="bool" default="false" />
+        <setting id="30525" label="30525" type="bool" default="false" />
+        <setting id="30526" label="30526" type="bool" default="false" />
+        <setting id="30527" label="30527" type="bool" default="false" />
+        <setting id="30528" label="30528" type="bool" default="false" />
+        <setting id="30529" label="30529" type="bool" default="false" />
+        <setting id="30530" label="30530" type="bool" default="false" />
+        <setting id="30531" label="30531" type="bool" default="false" />
+        <setting id="30532" label="30532" type="bool" default="false" />
+        <setting id="30533" label="30533" type="bool" default="false" />
+        <setting id="30534" label="30534" type="bool" default="false" />
+        <setting id="30535" label="30535" type="bool" default="false" />
+        <setting id="30536" label="30536" type="bool" default="false" />
+        <setting id="30537" label="30537" type="bool" default="false" />
+        <setting id="30538" label="30538" type="bool" default="false" />
+        <setting id="30539" label="30539" type="bool" default="false" />
+        <setting id="30540" label="30540" type="bool" default="false" />
+        <setting id="30541" label="30541" type="bool" default="false" />
+        <setting id="30542" label="30542" type="bool" default="false" />
+        <setting id="30543" label="30543" type="bool" default="false" />
+        <setting id="30544" label="30544" type="bool" default="false" />
+        <setting id="30545" label="30545" type="bool" default="false" />
+        <setting id="30546" label="30546" type="bool" default="false" />
+        <setting id="30547" label="30547" type="bool" default="false" />
+        <setting id="30548" label="30548" type="bool" default="false" />
+        <setting id="30549" label="30549" type="bool" default="false" />
+        <setting id="30550" label="30550" type="bool" default="false" />
+        <setting id="30551" label="30551" type="bool" default="false" />
+        <setting id="30552" label="30552" type="bool" default="false" />
+        <setting id="30553" label="30553" type="bool" default="false" />
+        <setting id="30554" label="30554" type="bool" default="false" />
+        <setting id="30555" label="30555" type="bool" default="false" />
+        <setting id="30556" label="30556" type="bool" default="false" />
+        <setting id="30557" label="30557" type="bool" default="false" />
+        <setting id="30558" label="30558" type="bool" default="false" />
+        <setting id="30559" label="30559" type="bool" default="false" />
+        <setting id="30560" label="30560" type="bool" default="false" />
+        <setting id="30561" label="30561" type="bool" default="false" />
+        <setting id="30562" label="30562" type="bool" default="false" />
+        <setting id="30563" label="30563" type="bool" default="false" />
+        <setting id="30564" label="30564" type="bool" default="false" />
+        <setting id="30565" label="30565" type="bool" default="false" />
+        <setting id="30566" label="30566" type="bool" default="false" />
+        <setting id="30567" label="30567" type="bool" default="false" />
+        <setting id="30568" label="30568" type="bool" default="false" />
+        <setting id="30569" label="30569" type="bool" default="false" />
+        <setting id="30570" label="30570" type="bool" default="false" />
+        <setting id="30571" label="30571" type="bool" default="false" />
+        <setting id="30572" label="30572" type="bool" default="false" />
+        <setting id="30573" label="30573" type="bool" default="false" />
+        <setting id="30574" label="30574" type="bool" default="false" />
+        <setting id="30575" label="30575" type="bool" default="false" />
+        <setting id="30576" label="30576" type="bool" default="false" />
+        <setting id="30577" label="30577" type="bool" default="false" />
+        <setting id="30578" label="30578" type="bool" default="false" />
+        <setting id="30579" label="30579" type="bool" default="false" />
+        <setting id="30580" label="30580" type="bool" default="false" />
+        <setting id="30581" label="30581" type="bool" default="false" />
+        <setting id="30582" label="30582" type="bool" default="false" />
+        <setting id="30583" label="30583" type="bool" default="false" />
+        <setting id="30584" label="30584" type="bool" default="false" />
+    </category>
+</settings>
