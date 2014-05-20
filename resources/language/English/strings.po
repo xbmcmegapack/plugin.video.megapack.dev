@@ -1,0 +1,2370 @@
+# XBMC Media Center language file
+msgid ""
+msgstr ""
+"Project-Id-Version: XBMC-Addons\n"
+"Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
+"POT-Creation-Date: 2014-05-03 13:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgctxt "#30000"
+msgid "Mega Pack"
+msgstr ""
+
+msgctxt "#30001"
+msgid "General"
+msgstr ""
+
+msgctxt "#30002"
+msgid "Enter your prefered viewing settings."
+msgstr ""
+
+msgctxt "#30003"
+msgid "Resolution"
+msgstr ""
+
+msgctxt "#30004"
+msgid "Sound"
+msgstr ""
+
+msgctxt "#30005"
+msgid "Home Menu"
+msgstr ""
+
+msgctxt "#30006"
+msgid "Unselect home menu options you don't want."
+msgstr ""
+
+msgctxt "#30007"
+msgid "My Favourites"
+msgstr ""
+
+msgctxt "#30008"
+msgid "My Playlist"
+msgstr ""
+
+msgctxt "#30009"
+msgid "Channels"
+msgstr ""
+
+msgctxt "#30010"
+msgid "Movies"
+msgstr ""
+
+msgctxt "#30011"
+msgid "TVShows"
+msgstr ""
+
+msgctxt "#30012"
+msgid "Sports"
+msgstr ""
+
+msgctxt "#30013"
+msgid "Events"
+msgstr ""
+
+msgctxt "#30014"
+msgid "Live"
+msgstr ""
+
+msgctxt "#30015"
+msgid "Kids' Zone"
+msgstr ""
+
+msgctxt "#30016"
+msgid "Languages"
+msgstr ""
+
+msgctxt "#30017"
+msgid "Countries"
+msgstr ""
+
+msgctxt "#30018"
+msgid "Adult"
+msgstr ""
+
+msgctxt "#30019"
+msgid "Search"
+msgstr ""
+
+msgctxt "#30020"
+msgid "Preferences"
+msgstr ""
+
+msgctxt "#30021"
+msgid "Genres"
+msgstr ""
+
+msgctxt "#30022"
+msgid "Unselect genres for movies you don't like."
+msgstr ""
+
+msgctxt "#30023"
+msgid "Action"
+msgstr ""
+
+msgctxt "#30024"
+msgid "Adventure"
+msgstr ""
+
+msgctxt "#30025"
+msgid "Animation"
+msgstr ""
+
+msgctxt "#30026"
+msgid "Art House Film"
+msgstr ""
+
+msgctxt "#30027"
+msgid "Biography"
+msgstr ""
+
+msgctxt "#30028"
+msgid "Christmas"
+msgstr ""
+
+msgctxt "#30029"
+msgid "Classic"
+msgstr ""
+
+msgctxt "#30030"
+msgid "Comedy"
+msgstr ""
+
+msgctxt "#30031"
+msgid "Conspiration"
+msgstr ""
+
+msgctxt "#30032"
+msgid "Crime"
+msgstr ""
+
+msgctxt "#30033"
+msgid "Documentary"
+msgstr ""
+
+msgctxt "#30034"
+msgid "Drama"
+msgstr ""
+
+msgctxt "#30035"
+msgid "Family"
+msgstr ""
+
+msgctxt "#30036"
+msgid "Fantastic"
+msgstr ""
+
+msgctxt "#30037"
+msgid "Game"
+msgstr ""
+
+msgctxt "#30038"
+msgid "History"
+msgstr ""
+
+msgctxt "#30039"
+msgid "Horror"
+msgstr ""
+
+msgctxt "#30040"
+msgid "Independent"
+msgstr ""
+
+msgctxt "#30041"
+msgid "Kids"
+msgstr ""
+
+msgctxt "#30042"
+msgid "Mystery"
+msgstr ""
+
+msgctxt "#30043"
+msgid "Music"
+msgstr ""
+
+msgctxt "#30044"
+msgid "Musical"
+msgstr ""
+
+msgctxt "#30045"
+msgid "Religion"
+msgstr ""
+
+msgctxt "#30046"
+msgid "Romance"
+msgstr ""
+
+msgctxt "#30047"
+msgid "Sci-Fi"
+msgstr ""
+
+msgctxt "#30048"
+msgid "Short Film"
+msgstr ""
+
+msgctxt "#30049"
+msgid "Suspense"
+msgstr ""
+
+msgctxt "#30050"
+msgid "Thriller"
+msgstr ""
+
+msgctxt "#30051"
+msgid "War"
+msgstr ""
+
+msgctxt "#30052"
+msgid "Western"
+msgstr ""
+
+msgctxt "#30053"
+msgid "Topics"
+msgstr ""
+
+msgctxt "#30054"
+msgid "Unselect topics for tvshows you don't like."
+msgstr ""
+
+msgctxt "#30055"
+msgid "Animal"
+msgstr ""
+
+msgctxt "#30056"
+msgid "Art"
+msgstr ""
+
+msgctxt "#30057"
+msgid "Award"
+msgstr ""
+
+msgctxt "#30058"
+msgid "Beauty"
+msgstr ""
+
+msgctxt "#30059"
+msgid "Business"
+msgstr ""
+
+msgctxt "#30060"
+msgid "Cars"
+msgstr ""
+
+msgctxt "#30061"
+msgid "Celebrity"
+msgstr ""
+
+msgctxt "#30062"
+msgid "Culture"
+msgstr ""
+
+msgctxt "#30063"
+msgid "Economics"
+msgstr ""
+
+msgctxt "#30064"
+msgid "Education"
+msgstr ""
+
+msgctxt "#30065"
+msgid "Environment"
+msgstr ""
+
+msgctxt "#30066"
+msgid "Fashion"
+msgstr ""
+
+msgctxt "#30067"
+msgid "Food"
+msgstr ""
+
+msgctxt "#30068"
+msgid "Gaming"
+msgstr ""
+
+msgctxt "#30069"
+msgid "Gardening"
+msgstr ""
+
+msgctxt "#30070"
+msgid "Health"
+msgstr ""
+
+msgctxt "#30071"
+msgid "History"
+msgstr ""
+
+msgctxt "#30072"
+msgid "House"
+msgstr ""
+
+msgctxt "#30073"
+msgid "Lifestyle"
+msgstr ""
+
+msgctxt "#30074"
+msgid "News"
+msgstr ""
+
+msgctxt "#30075"
+msgid "Outdoor"
+msgstr ""
+
+msgctxt "#30076"
+msgid "Politics"
+msgstr ""
+
+msgctxt "#30077"
+msgid "RealityTV"
+msgstr ""
+
+msgctxt "#30078"
+msgid "Science"
+msgstr ""
+
+msgctxt "#30079"
+msgid "Society"
+msgstr ""
+
+msgctxt "#30080"
+msgid "Space"
+msgstr ""
+
+msgctxt "#30081"
+msgid "Spirituality"
+msgstr ""
+
+msgctxt "#30082"
+msgid "Superhero"
+msgstr ""
+
+msgctxt "#30083"
+msgid "Technology"
+msgstr ""
+
+msgctxt "#30084"
+msgid "Traveling"
+msgstr ""
+
+msgctxt "#30085"
+msgid "Wildlife"
+msgstr ""
+
+msgctxt "#30086"
+msgid "Sports"
+msgstr ""
+
+msgctxt "#30087"
+msgid "Unselect sports you don't like."
+msgstr ""
+
+msgctxt "#30088"
+msgid "Basketball"
+msgstr ""
+
+msgctxt "#30089"
+msgid "Bowling"
+msgstr ""
+
+msgctxt "#30090"
+msgid "Climbing"
+msgstr ""
+
+msgctxt "#30091"
+msgid "Combat Sports"
+msgstr ""
+
+msgctxt "#30092"
+msgid "Cue Sports"
+msgstr ""
+
+msgctxt "#30093"
+msgid "Cycling"
+msgstr ""
+
+msgctxt "#30094"
+msgid "Dart"
+msgstr ""
+
+msgctxt "#30095"
+msgid "Equine Sports"
+msgstr ""
+
+msgctxt "#30096"
+msgid "Fishing"
+msgstr ""
+
+msgctxt "#30097"
+msgid "Football"
+msgstr ""
+
+msgctxt "#30098"
+msgid "Golf"
+msgstr ""
+
+msgctxt "#30099"
+msgid "Gymnastic"
+msgstr ""
+
+msgctxt "#30100"
+msgid "Hockey"
+msgstr ""
+
+msgctxt "#30101"
+msgid "Hunting"
+msgstr ""
+
+msgctxt "#30102"
+msgid "Motor Racing"
+msgstr ""
+
+msgctxt "#30103"
+msgid "Net Sports"
+msgstr ""
+
+msgctxt "#30104"
+msgid "Poker"
+msgstr ""
+
+msgctxt "#30105"
+msgid "Racket Sports"
+msgstr ""
+
+msgctxt "#30106"
+msgid "Running"
+msgstr ""
+
+msgctxt "#30107"
+msgid "Soccer"
+msgstr ""
+
+msgctxt "#30108"
+msgid "Strength Sports"
+msgstr ""
+
+msgctxt "#30109"
+msgid "Track and Field"
+msgstr ""
+
+msgctxt "#30110"
+msgid "Water Sports"
+msgstr ""
+
+msgctxt "#30111"
+msgid "Winter Sports"
+msgstr ""
+
+msgctxt "#30112"
+msgid "XTreme Sports"
+msgstr ""
+
+msgctxt "#30113"
+msgid "Channels"
+msgstr ""
+
+msgctxt "#30114"
+msgid "Unselect channels you don't like"
+msgstr ""
+
+msgctxt "#30115"
+msgid "ARTE.TV"
+msgstr ""
+
+msgctxt "#30116"
+msgid "DiY"
+msgstr ""
+
+msgctxt "#30117"
+msgid "HGTV"
+msgstr ""
+
+msgctxt "#30118"
+msgid "NASA"
+msgstr ""
+
+msgctxt "#30119"
+msgid "BrewingTV"
+msgstr ""
+
+msgctxt "#30120"
+msgid "Motor Sports Replays"
+msgstr ""
+
+msgctxt "#30121"
+msgid "CBSNews"
+msgstr ""
+
+msgctxt "#30122"
+msgid "Discovery News"
+msgstr ""
+
+msgctxt "#30123"
+msgid "Discovery Channel"
+msgstr ""
+
+msgctxt "#30124"
+msgid "Animal Planet"
+msgstr ""
+
+msgctxt "#30125"
+msgid "TLC"
+msgstr ""
+
+msgctxt "#30126"
+msgid "Science"
+msgstr ""
+
+msgctxt "#30127"
+msgid "Destination America"
+msgstr ""
+
+msgctxt "#30128"
+msgid "Investigation"
+msgstr ""
+
+msgctxt "#30129"
+msgid "Military"
+msgstr ""
+
+msgctxt "#30130"
+msgid "Velocity"
+msgstr ""
+
+msgctxt "#30131"
+msgid "Fit and Health"
+msgstr ""
+
+msgctxt "#30132"
+msgid "How Stuff Works"
+msgstr ""
+
+msgctxt "#30133"
+msgid "ActionTV"
+msgstr ""
+
+msgctxt "#30134"
+msgid "CBC TVShows"
+msgstr ""
+
+msgctxt "#30135"
+msgid "CBC the Comedy Network"
+msgstr ""
+
+msgctxt "#30136"
+msgid "America"
+msgstr ""
+
+msgctxt "#30137"
+msgid "PutlockerTV"
+msgstr ""
+
+msgctxt "#30138"
+msgid "RedBull.tv"
+msgstr ""
+
+msgctxt "#30139"
+msgid "Features"
+msgstr ""
+
+msgctxt "#30140"
+msgid "Select special features for this addon."
+msgstr ""
+
+msgctxt "#30141"
+msgid "Livecams"
+msgstr ""
+
+msgctxt "#30142"
+msgid "Languages (1)"
+msgstr ""
+
+msgctxt "#30143"
+msgid "Select languages you understand."
+msgstr ""
+
+msgctxt "#30144"
+msgid "Abkhazian"
+msgstr ""
+
+msgctxt "#30145"
+msgid "Afar"
+msgstr ""
+
+msgctxt "#30146"
+msgid "Afrikaans"
+msgstr ""
+
+msgctxt "#30147"
+msgid "Akan"
+msgstr ""
+
+msgctxt "#30148"
+msgid "Albanian"
+msgstr ""
+
+msgctxt "#30149"
+msgid "Amharic"
+msgstr ""
+
+msgctxt "#30150"
+msgid "Arabic"
+msgstr ""
+
+msgctxt "#30151"
+msgid "Aragonese"
+msgstr ""
+
+msgctxt "#30152"
+msgid "Armenian"
+msgstr ""
+
+msgctxt "#30153"
+msgid "Assamese"
+msgstr ""
+
+msgctxt "#30154"
+msgid "Avaric"
+msgstr ""
+
+msgctxt "#30155"
+msgid "Avestan"
+msgstr ""
+
+msgctxt "#30156"
+msgid "Aymara"
+msgstr ""
+
+msgctxt "#30157"
+msgid "Azerbaijani"
+msgstr ""
+
+msgctxt "#30158"
+msgid "Bambara"
+msgstr ""
+
+msgctxt "#30159"
+msgid "Bashkir"
+msgstr ""
+
+msgctxt "#30160"
+msgid "Basque"
+msgstr ""
+
+msgctxt "#30161"
+msgid "Belarusian"
+msgstr ""
+
+msgctxt "#30162"
+msgid "Bengali"
+msgstr ""
+
+msgctxt "#30163"
+msgid "Bihari"
+msgstr ""
+
+msgctxt "#30164"
+msgid "Bislama"
+msgstr ""
+
+msgctxt "#30165"
+msgid "Bokmål"
+msgstr ""
+
+msgctxt "#30166"
+msgid "Bosnian"
+msgstr ""
+
+msgctxt "#30167"
+msgid "Breton"
+msgstr ""
+
+msgctxt "#30168"
+msgid "Bulgarian"
+msgstr ""
+
+msgctxt "#30169"
+msgid "Burmese"
+msgstr ""
+
+msgctxt "#30170"
+msgid "Catalan"
+msgstr ""
+
+msgctxt "#30171"
+msgid "Central Khmer"
+msgstr ""
+
+msgctxt "#30172"
+msgid "Chamorro"
+msgstr ""
+
+msgctxt "#30173"
+msgid "Chechen"
+msgstr ""
+
+msgctxt "#30174"
+msgid "Chichewa"
+msgstr ""
+
+msgctxt "#30175"
+msgid "Chinese"
+msgstr ""
+
+msgctxt "#30176"
+msgid "Chuvash"
+msgstr ""
+
+msgctxt "#30177"
+msgid "Cornish"
+msgstr ""
+
+msgctxt "#30178"
+msgid "Corsican"
+msgstr ""
+
+msgctxt "#30179"
+msgid "Cree"
+msgstr ""
+
+msgctxt "#30180"
+msgid "Croatian"
+msgstr ""
+
+msgctxt "#30181"
+msgid "Czech"
+msgstr ""
+
+msgctxt "#30182"
+msgid "Danish"
+msgstr ""
+
+msgctxt "#30183"
+msgid "Dutch"
+msgstr ""
+
+msgctxt "#30184"
+msgid "Dzongkha"
+msgstr ""
+
+msgctxt "#30185"
+msgid "English"
+msgstr ""
+
+msgctxt "#30186"
+msgid "Esperanto"
+msgstr ""
+
+msgctxt "#30187"
+msgid "Estonian"
+msgstr ""
+
+msgctxt "#30188"
+msgid "Ewe"
+msgstr ""
+
+msgctxt "#30189"
+msgid "Faroese"
+msgstr ""
+
+msgctxt "#30190"
+msgid "Fijian"
+msgstr ""
+
+msgctxt "#30191"
+msgid "Finnish"
+msgstr ""
+
+msgctxt "#30192"
+msgid "French"
+msgstr ""
+
+msgctxt "#30193"
+msgid "Fulah"
+msgstr ""
+
+msgctxt "#30194"
+msgid "Gaelic"
+msgstr ""
+
+msgctxt "#30195"
+msgid "Galician"
+msgstr ""
+
+msgctxt "#30196"
+msgid "Ganda"
+msgstr ""
+
+msgctxt "#30197"
+msgid "Georgian"
+msgstr ""
+
+msgctxt "#30198"
+msgid "German"
+msgstr ""
+
+msgctxt "#30199"
+msgid "Greek"
+msgstr ""
+
+msgctxt "#30200"
+msgid "Guarani"
+msgstr ""
+
+msgctxt "#30201"
+msgid "Gujarati"
+msgstr ""
+
+msgctxt "#30202"
+msgid "Haitian"
+msgstr ""
+
+msgctxt "#30203"
+msgid "Hausa"
+msgstr ""
+
+msgctxt "#30204"
+msgid "Hebrew"
+msgstr ""
+
+msgctxt "#30205"
+msgid "Herero"
+msgstr ""
+
+msgctxt "#30206"
+msgid "Hindi"
+msgstr ""
+
+msgctxt "#30207"
+msgid "Hiri Motu"
+msgstr ""
+
+msgctxt "#30208"
+msgid "Hungarian"
+msgstr ""
+
+msgctxt "#30209"
+msgid "Icelandic"
+msgstr ""
+
+msgctxt "#30210"
+msgid "Ido"
+msgstr ""
+
+msgctxt "#30211"
+msgid "Igbo"
+msgstr ""
+
+msgctxt "#30212"
+msgid "Indonesian"
+msgstr ""
+
+msgctxt "#30213"
+msgid "Interlingua"
+msgstr ""
+
+msgctxt "#30214"
+msgid "Interlingue"
+msgstr ""
+
+msgctxt "#30215"
+msgid "Inuktitut"
+msgstr ""
+
+msgctxt "#30216"
+msgid "Inupiaq"
+msgstr ""
+
+msgctxt "#30217"
+msgid "Irish"
+msgstr ""
+
+msgctxt "#30218"
+msgid "Italian"
+msgstr ""
+
+msgctxt "#30219"
+msgid "Japanese"
+msgstr ""
+
+msgctxt "#30220"
+msgid "Javanese"
+msgstr ""
+
+msgctxt "#30221"
+msgid "Kalaallisut"
+msgstr ""
+
+msgctxt "#30222"
+msgid "Kannada"
+msgstr ""
+
+msgctxt "#30223"
+msgid "Kanuri"
+msgstr ""
+
+msgctxt "#30224"
+msgid "Kashmiri"
+msgstr ""
+
+msgctxt "#30225"
+msgid "Kazakh"
+msgstr ""
+
+msgctxt "#30226"
+msgid "Kikuyu"
+msgstr ""
+
+msgctxt "#30227"
+msgid "Kinyarwanda"
+msgstr ""
+
+msgctxt "#30228"
+msgid "Kirghiz"
+msgstr ""
+
+msgctxt "#30229"
+msgid "Komi"
+msgstr ""
+
+msgctxt "#30230"
+msgid "Kongo"
+msgstr ""
+
+msgctxt "#30231"
+msgid "Korean"
+msgstr ""
+
+msgctxt "#30232"
+msgid "Kuanyama"
+msgstr ""
+
+msgctxt "#30233"
+msgid "Kurdish"
+msgstr ""
+
+msgctxt "#30234"
+msgid "Lao"
+msgstr ""
+
+msgctxt "#30235"
+msgid "Latin"
+msgstr ""
+
+msgctxt "#30236"
+msgid "Latvian"
+msgstr ""
+
+msgctxt "#30237"
+msgid "Limburgan"
+msgstr ""
+
+msgctxt "#30238"
+msgid "Lingala"
+msgstr ""
+
+msgctxt "#30239"
+msgid "Lithuanian"
+msgstr ""
+
+msgctxt "#30240"
+msgid "Luba-Katanga"
+msgstr ""
+
+msgctxt "#30241"
+msgid "Luxembourgish"
+msgstr ""
+
+msgctxt "#30242"
+msgid "Languages (2)"
+msgstr ""
+
+msgctxt "#30243"
+msgid "Select languages you understand."
+msgstr ""
+
+msgctxt "#30244"
+msgid "Macedonian"
+msgstr ""
+
+msgctxt "#30245"
+msgid "Malagasy"
+msgstr ""
+
+msgctxt "#30246"
+msgid "Malay"
+msgstr ""
+
+msgctxt "#30247"
+msgid "Malayalam"
+msgstr ""
+
+msgctxt "#30248"
+msgid "Maldivian"
+msgstr ""
+
+msgctxt "#30249"
+msgid "Maltese"
+msgstr ""
+
+msgctxt "#30250"
+msgid "Manx"
+msgstr ""
+
+msgctxt "#30251"
+msgid "Maori"
+msgstr ""
+
+msgctxt "#30252"
+msgid "Marathi"
+msgstr ""
+
+msgctxt "#30253"
+msgid "Marshallese"
+msgstr ""
+
+msgctxt "#30254"
+msgid "Mongolian"
+msgstr ""
+
+msgctxt "#30255"
+msgid "Nauru"
+msgstr ""
+
+msgctxt "#30256"
+msgid "Navajo"
+msgstr ""
+
+msgctxt "#30257"
+msgid "Ndonga"
+msgstr ""
+
+msgctxt "#30258"
+msgid "Nepali"
+msgstr ""
+
+msgctxt "#30259"
+msgid "North Ndebele"
+msgstr ""
+
+msgctxt "#30260"
+msgid "Northern Sami"
+msgstr ""
+
+msgctxt "#30261"
+msgid "Norwegian"
+msgstr ""
+
+msgctxt "#30262"
+msgid "Norwegian"
+msgstr ""
+
+msgctxt "#30263"
+msgid "Occitan"
+msgstr ""
+
+msgctxt "#30264"
+msgid "Ojibwa"
+msgstr ""
+
+msgctxt "#30265"
+msgid "Old Slavonic"
+msgstr ""
+
+msgctxt "#30266"
+msgid "Oriya"
+msgstr ""
+
+msgctxt "#30267"
+msgid "Oromo"
+msgstr ""
+
+msgctxt "#30268"
+msgid "Ossetian"
+msgstr ""
+
+msgctxt "#30269"
+msgid "Pali"
+msgstr ""
+
+msgctxt "#30270"
+msgid "Panjabi"
+msgstr ""
+
+msgctxt "#30271"
+msgid "Persian"
+msgstr ""
+
+msgctxt "#30272"
+msgid "Polish"
+msgstr ""
+
+msgctxt "#30273"
+msgid "Portuguese"
+msgstr ""
+
+msgctxt "#30274"
+msgid "Pushto"
+msgstr ""
+
+msgctxt "#30275"
+msgid "Quechua"
+msgstr ""
+
+msgctxt "#30276"
+msgid "Romanian"
+msgstr ""
+
+msgctxt "#30277"
+msgid "Romansh"
+msgstr ""
+
+msgctxt "#30278"
+msgid "Rundi"
+msgstr ""
+
+msgctxt "#30279"
+msgid "Russian"
+msgstr ""
+
+msgctxt "#30280"
+msgid "Samoan"
+msgstr ""
+
+msgctxt "#30281"
+msgid "Sango"
+msgstr ""
+
+msgctxt "#30282"
+msgid "Sanskrit"
+msgstr ""
+
+msgctxt "#30283"
+msgid "Sardinian"
+msgstr ""
+
+msgctxt "#30284"
+msgid "Serbian"
+msgstr ""
+
+msgctxt "#30285"
+msgid "Shona"
+msgstr ""
+
+msgctxt "#30286"
+msgid "Sichuan Yi"
+msgstr ""
+
+msgctxt "#30287"
+msgid "Sindhi"
+msgstr ""
+
+msgctxt "#30288"
+msgid "Sinhala"
+msgstr ""
+
+msgctxt "#30289"
+msgid "Slovak"
+msgstr ""
+
+msgctxt "#30290"
+msgid "Slovenian"
+msgstr ""
+
+msgctxt "#30291"
+msgid "Somali"
+msgstr ""
+
+msgctxt "#30292"
+msgid "Sotho, Southern"
+msgstr ""
+
+msgctxt "#30293"
+msgid "South Ndebele"
+msgstr ""
+
+msgctxt "#30294"
+msgid "Spanish"
+msgstr ""
+
+msgctxt "#30295"
+msgid "Sundanese"
+msgstr ""
+
+msgctxt "#30296"
+msgid "Swahili"
+msgstr ""
+
+msgctxt "#30297"
+msgid "Swati"
+msgstr ""
+
+msgctxt "#30298"
+msgid "Swedish"
+msgstr ""
+
+msgctxt "#30299"
+msgid "Tagalog"
+msgstr ""
+
+msgctxt "#30300"
+msgid "Tahitian"
+msgstr ""
+
+msgctxt "#30301"
+msgid "Tajik"
+msgstr ""
+
+msgctxt "#30302"
+msgid "Tamil"
+msgstr ""
+
+msgctxt "#30303"
+msgid "Tatar"
+msgstr ""
+
+msgctxt "#30304"
+msgid "Telugu"
+msgstr ""
+
+msgctxt "#30305"
+msgid "Thai"
+msgstr ""
+
+msgctxt "#30306"
+msgid "Tibetan"
+msgstr ""
+
+msgctxt "#30307"
+msgid "Tigrinya"
+msgstr ""
+
+msgctxt "#30308"
+msgid "Tonga"
+msgstr ""
+
+msgctxt "#30309"
+msgid "Tsonga"
+msgstr ""
+
+msgctxt "#30310"
+msgid "Tswana"
+msgstr ""
+
+msgctxt "#30311"
+msgid "Turkish"
+msgstr ""
+
+msgctxt "#30312"
+msgid "Turkmen"
+msgstr ""
+
+msgctxt "#30313"
+msgid "Twi"
+msgstr ""
+
+msgctxt "#30314"
+msgid "Uighur"
+msgstr ""
+
+msgctxt "#30315"
+msgid "Ukrainian"
+msgstr ""
+
+msgctxt "#30316"
+msgid "Urdu"
+msgstr ""
+
+msgctxt "#30317"
+msgid "Uzbek"
+msgstr ""
+
+msgctxt "#30318"
+msgid "Venda"
+msgstr ""
+
+msgctxt "#30319"
+msgid "Vietnamese"
+msgstr ""
+
+msgctxt "#30320"
+msgid "Volapük"
+msgstr ""
+
+msgctxt "#30321"
+msgid "Walloon"
+msgstr ""
+
+msgctxt "#30322"
+msgid "Welsh"
+msgstr ""
+
+msgctxt "#30323"
+msgid "Western Frisian"
+msgstr ""
+
+msgctxt "#30324"
+msgid "Wolof"
+msgstr ""
+
+msgctxt "#30325"
+msgid "Xhosa"
+msgstr ""
+
+msgctxt "#30326"
+msgid "Yiddish"
+msgstr ""
+
+msgctxt "#30327"
+msgid "Yoruba"
+msgstr ""
+
+msgctxt "#30328"
+msgid "Zhuang"
+msgstr ""
+
+msgctxt "#30329"
+msgid "Zulu"
+msgstr ""
+
+msgctxt "#30330"
+msgid "Countries (1)"
+msgstr ""
+
+msgctxt "#30331"
+msgid "Select the countries for wich you want to view media content."
+msgstr ""
+
+msgctxt "#30332"
+msgid "Afghanistan"
+msgstr ""
+
+msgctxt "#30333"
+msgid "Åland Islands"
+msgstr ""
+
+msgctxt "#30334"
+msgid "Albania"
+msgstr ""
+
+msgctxt "#30335"
+msgid "Algeria"
+msgstr ""
+
+msgctxt "#30336"
+msgid "American Samoa"
+msgstr ""
+
+msgctxt "#30337"
+msgid "Andorra"
+msgstr ""
+
+msgctxt "#30338"
+msgid "Angola"
+msgstr ""
+
+msgctxt "#30339"
+msgid "Anguilla"
+msgstr ""
+
+msgctxt "#30340"
+msgid "Antarctica"
+msgstr ""
+
+msgctxt "#30341"
+msgid "Antigua and Barbuda"
+msgstr ""
+
+msgctxt "#30342"
+msgid "Argentina"
+msgstr ""
+
+msgctxt "#30343"
+msgid "Armenia"
+msgstr ""
+
+msgctxt "#30344"
+msgid "Aruba"
+msgstr ""
+
+msgctxt "#30345"
+msgid "Australia"
+msgstr ""
+
+msgctxt "#30346"
+msgid "Austria"
+msgstr ""
+
+msgctxt "#30347"
+msgid "Azerbaijan"
+msgstr ""
+
+msgctxt "#30348"
+msgid "Bahamas"
+msgstr ""
+
+msgctxt "#30349"
+msgid "Bahrain"
+msgstr ""
+
+msgctxt "#30350"
+msgid "Bangladesh"
+msgstr ""
+
+msgctxt "#30351"
+msgid "Barbados"
+msgstr ""
+
+msgctxt "#30352"
+msgid "Belarus"
+msgstr ""
+
+msgctxt "#30353"
+msgid "Belgium"
+msgstr ""
+
+msgctxt "#30354"
+msgid "Belize"
+msgstr ""
+
+msgctxt "#30355"
+msgid "Benin"
+msgstr ""
+
+msgctxt "#30356"
+msgid "Bermuda"
+msgstr ""
+
+msgctxt "#30357"
+msgid "Bhutan"
+msgstr ""
+
+msgctxt "#30358"
+msgid "Bolivia, Plurinational State of"
+msgstr ""
+
+msgctxt "#30359"
+msgid "Bonaire, Sint Eustatius and Saba"
+msgstr ""
+
+msgctxt "#30360"
+msgid "Bosnia and Herzegovina"
+msgstr ""
+
+msgctxt "#30361"
+msgid "Botswana"
+msgstr ""
+
+msgctxt "#30362"
+msgid "Bouvet Island"
+msgstr ""
+
+msgctxt "#30363"
+msgid "Brazil"
+msgstr ""
+
+msgctxt "#30364"
+msgid "British Indian Ocean Territory"
+msgstr ""
+
+msgctxt "#30365"
+msgid "Brunei Darussalam"
+msgstr ""
+
+msgctxt "#30366"
+msgid "Bulgaria"
+msgstr ""
+
+msgctxt "#30367"
+msgid "Burkina Faso"
+msgstr ""
+
+msgctxt "#30368"
+msgid "Burundi"
+msgstr ""
+
+msgctxt "#30369"
+msgid "Cambodia"
+msgstr ""
+
+msgctxt "#30370"
+msgid "Cameroon"
+msgstr ""
+
+msgctxt "#30371"
+msgid "Canada"
+msgstr ""
+
+msgctxt "#30372"
+msgid "Cape Verde"
+msgstr ""
+
+msgctxt "#30373"
+msgid "Cayman Islands"
+msgstr ""
+
+msgctxt "#30374"
+msgid "Central African Republic"
+msgstr ""
+
+msgctxt "#30375"
+msgid "Chad"
+msgstr ""
+
+msgctxt "#30376"
+msgid "Chile"
+msgstr ""
+
+msgctxt "#30377"
+msgid "China"
+msgstr ""
+
+msgctxt "#30378"
+msgid "Christmas Island"
+msgstr ""
+
+msgctxt "#30379"
+msgid "Cocos (Keeling) Islands"
+msgstr ""
+
+msgctxt "#30380"
+msgid "Colombia"
+msgstr ""
+
+msgctxt "#30381"
+msgid "Comoros"
+msgstr ""
+
+msgctxt "#30382"
+msgid "Congo"
+msgstr ""
+
+msgctxt "#30383"
+msgid "Congo, the Democratic Republic of the"
+msgstr ""
+
+msgctxt "#30384"
+msgid "Cook Islands"
+msgstr ""
+
+msgctxt "#30385"
+msgid "Costa Rica"
+msgstr ""
+
+msgctxt "#30386"
+msgid "Côte d'Ivoire"
+msgstr ""
+
+msgctxt "#30387"
+msgid "Croatia"
+msgstr ""
+
+msgctxt "#30388"
+msgid "Cuba"
+msgstr ""
+
+msgctxt "#30389"
+msgid "Curaçao"
+msgstr ""
+
+msgctxt "#30390"
+msgid "Cyprus"
+msgstr ""
+
+msgctxt "#30391"
+msgid "Czech Republic"
+msgstr ""
+
+msgctxt "#30392"
+msgid "Denmark"
+msgstr ""
+
+msgctxt "#30393"
+msgid "Djibouti"
+msgstr ""
+
+msgctxt "#30394"
+msgid "Dominica"
+msgstr ""
+
+msgctxt "#30395"
+msgid "Dominican Republic"
+msgstr ""
+
+msgctxt "#30396"
+msgid "Ecuador"
+msgstr ""
+
+msgctxt "#30397"
+msgid "Egypt"
+msgstr ""
+
+msgctxt "#30398"
+msgid "El Salvador"
+msgstr ""
+
+msgctxt "#30399"
+msgid "Equatorial Guinea"
+msgstr ""
+
+msgctxt "#30400"
+msgid "Eritrea"
+msgstr ""
+
+msgctxt "#30401"
+msgid "Estonia"
+msgstr ""
+
+msgctxt "#30402"
+msgid "Ethiopia"
+msgstr ""
+
+msgctxt "#30403"
+msgid "Falkland Islands (Malvinas)"
+msgstr ""
+
+msgctxt "#30404"
+msgid "Faroe Islands"
+msgstr ""
+
+msgctxt "#30405"
+msgid "Fiji"
+msgstr ""
+
+msgctxt "#30406"
+msgid "Finland"
+msgstr ""
+
+msgctxt "#30407"
+msgid "France"
+msgstr ""
+
+msgctxt "#30408"
+msgid "French Guiana"
+msgstr ""
+
+msgctxt "#30409"
+msgid "French Polynesia"
+msgstr ""
+
+msgctxt "#30410"
+msgid "French Southern Territories"
+msgstr ""
+
+msgctxt "#30411"
+msgid "Gabon"
+msgstr ""
+
+msgctxt "#30412"
+msgid "Gambia"
+msgstr ""
+
+msgctxt "#30413"
+msgid "Georgia"
+msgstr ""
+
+msgctxt "#30414"
+msgid "Germany"
+msgstr ""
+
+msgctxt "#30415"
+msgid "Ghana"
+msgstr ""
+
+msgctxt "#30416"
+msgid "Gibraltar"
+msgstr ""
+
+msgctxt "#30417"
+msgid "Greece"
+msgstr ""
+
+msgctxt "#30418"
+msgid "Greenland"
+msgstr ""
+
+msgctxt "#30419"
+msgid "Grenada"
+msgstr ""
+
+msgctxt "#30420"
+msgid "Guadeloupe"
+msgstr ""
+
+msgctxt "#30421"
+msgid "Guam"
+msgstr ""
+
+msgctxt "#30422"
+msgid "Guatemala"
+msgstr ""
+
+msgctxt "#30423"
+msgid "Guernsey"
+msgstr ""
+
+msgctxt "#30424"
+msgid "Guinea"
+msgstr ""
+
+msgctxt "#30425"
+msgid "Guinea-Bissau"
+msgstr ""
+
+msgctxt "#30426"
+msgid "Guyana"
+msgstr ""
+
+msgctxt "#30427"
+msgid "Haiti"
+msgstr ""
+
+msgctxt "#30428"
+msgid "Countries (2)"
+msgstr ""
+
+msgctxt "#30429"
+msgid "Select the countries for wich you want to view media content."
+msgstr ""
+
+msgctxt "#30430"
+msgid "Heard Island and McDonald Islands"
+msgstr ""
+
+msgctxt "#30431"
+msgid "Holy See (Vatican City State)"
+msgstr ""
+
+msgctxt "#30432"
+msgid "Honduras"
+msgstr ""
+
+msgctxt "#30433"
+msgid "Hong Kong"
+msgstr ""
+
+msgctxt "#30434"
+msgid "Hungary"
+msgstr ""
+
+msgctxt "#30435"
+msgid "Iceland"
+msgstr ""
+
+msgctxt "#30436"
+msgid "India"
+msgstr ""
+
+msgctxt "#30437"
+msgid "Indonesia"
+msgstr ""
+
+msgctxt "#30438"
+msgid "Iran, Islamic Republic of"
+msgstr ""
+
+msgctxt "#30439"
+msgid "Iraq"
+msgstr ""
+
+msgctxt "#30440"
+msgid "Ireland"
+msgstr ""
+
+msgctxt "#30441"
+msgid "Isle of Man"
+msgstr ""
+
+msgctxt "#30442"
+msgid "Israel"
+msgstr ""
+
+msgctxt "#30443"
+msgid "Italy"
+msgstr ""
+
+msgctxt "#30444"
+msgid "Jamaica"
+msgstr ""
+
+msgctxt "#30445"
+msgid "Japan"
+msgstr ""
+
+msgctxt "#30446"
+msgid "Jersey"
+msgstr ""
+
+msgctxt "#30447"
+msgid "Jordan"
+msgstr ""
+
+msgctxt "#30448"
+msgid "Kazakhstan"
+msgstr ""
+
+msgctxt "#30449"
+msgid "Kenya"
+msgstr ""
+
+msgctxt "#30450"
+msgid "Kiribati"
+msgstr ""
+
+msgctxt "#30451"
+msgid "Korea, Democratic People's Republic of"
+msgstr ""
+
+msgctxt "#30452"
+msgid "Korea, Republic of"
+msgstr ""
+
+msgctxt "#30453"
+msgid "Kuwait"
+msgstr ""
+
+msgctxt "#30454"
+msgid "Kyrgyzstan"
+msgstr ""
+
+msgctxt "#30455"
+msgid "Lao People's Democratic Republic"
+msgstr ""
+
+msgctxt "#30456"
+msgid "Latvia"
+msgstr ""
+
+msgctxt "#30457"
+msgid "Lebanon"
+msgstr ""
+
+msgctxt "#30458"
+msgid "Lesotho"
+msgstr ""
+
+msgctxt "#30459"
+msgid "Liberia"
+msgstr ""
+
+msgctxt "#30460"
+msgid "Libya"
+msgstr ""
+
+msgctxt "#30461"
+msgid "Liechtenstein"
+msgstr ""
+
+msgctxt "#30462"
+msgid "Lithuania"
+msgstr ""
+
+msgctxt "#30463"
+msgid "Luxembourg"
+msgstr ""
+
+msgctxt "#30464"
+msgid "Macao"
+msgstr ""
+
+msgctxt "#30465"
+msgid "Macedonia, the former Yugoslav Republic of"
+msgstr ""
+
+msgctxt "#30466"
+msgid "Madagascar"
+msgstr ""
+
+msgctxt "#30467"
+msgid "Malawi"
+msgstr ""
+
+msgctxt "#30468"
+msgid "Malaysia"
+msgstr ""
+
+msgctxt "#30469"
+msgid "Maldives"
+msgstr ""
+
+msgctxt "#30470"
+msgid "Mali"
+msgstr ""
+
+msgctxt "#30471"
+msgid "Malta"
+msgstr ""
+
+msgctxt "#30472"
+msgid "Marshall Islands"
+msgstr ""
+
+msgctxt "#30473"
+msgid "Martinique"
+msgstr ""
+
+msgctxt "#30474"
+msgid "Mauritania"
+msgstr ""
+
+msgctxt "#30475"
+msgid "Mauritius"
+msgstr ""
+
+msgctxt "#30476"
+msgid "Mayotte"
+msgstr ""
+
+msgctxt "#30477"
+msgid "Mexico"
+msgstr ""
+
+msgctxt "#30478"
+msgid "Micronesia, Federated States of"
+msgstr ""
+
+msgctxt "#30479"
+msgid "Moldova, Republic of"
+msgstr ""
+
+msgctxt "#30480"
+msgid "Monaco"
+msgstr ""
+
+msgctxt "#30481"
+msgid "Mongolia"
+msgstr ""
+
+msgctxt "#30482"
+msgid "Montenegro"
+msgstr ""
+
+msgctxt "#30483"
+msgid "Montserrat"
+msgstr ""
+
+msgctxt "#30484"
+msgid "Morocco"
+msgstr ""
+
+msgctxt "#30485"
+msgid "Mozambique"
+msgstr ""
+
+msgctxt "#30486"
+msgid "Myanmar"
+msgstr ""
+
+msgctxt "#30487"
+msgid "Namibia"
+msgstr ""
+
+msgctxt "#30488"
+msgid "Nauru"
+msgstr ""
+
+msgctxt "#30489"
+msgid "Nepal"
+msgstr ""
+
+msgctxt "#30490"
+msgid "Netherlands"
+msgstr ""
+
+msgctxt "#30491"
+msgid "New Caledonia"
+msgstr ""
+
+msgctxt "#30492"
+msgid "New Zealand"
+msgstr ""
+
+msgctxt "#30493"
+msgid "Nicaragua"
+msgstr ""
+
+msgctxt "#30494"
+msgid "Niger"
+msgstr ""
+
+msgctxt "#30495"
+msgid "Nigeria"
+msgstr ""
+
+msgctxt "#30496"
+msgid "Niue"
+msgstr ""
+
+msgctxt "#30497"
+msgid "Norfolk Island"
+msgstr ""
+
+msgctxt "#30498"
+msgid "Northern Mariana Islands"
+msgstr ""
+
+msgctxt "#30499"
+msgid "Norway"
+msgstr ""
+
+msgctxt "#30500"
+msgid "Oman"
+msgstr ""
+
+msgctxt "#30501"
+msgid "Pakistan"
+msgstr ""
+
+msgctxt "#30502"
+msgid "Palau"
+msgstr ""
+
+msgctxt "#30503"
+msgid "Palestine, State of"
+msgstr ""
+
+msgctxt "#30504"
+msgid "Panama"
+msgstr ""
+
+msgctxt "#30505"
+msgid "Papua New Guinea"
+msgstr ""
+
+msgctxt "#30506"
+msgid "Paraguay"
+msgstr ""
+
+msgctxt "#30507"
+msgid "Peru"
+msgstr ""
+
+msgctxt "#30508"
+msgid "Philippines"
+msgstr ""
+
+msgctxt "#30509"
+msgid "Pitcairn"
+msgstr ""
+
+msgctxt "#30510"
+msgid "Poland"
+msgstr ""
+
+msgctxt "#30511"
+msgid "Portugal"
+msgstr ""
+
+msgctxt "#30512"
+msgid "Puerto Rico"
+msgstr ""
+
+msgctxt "#30513"
+msgid "Qatar"
+msgstr ""
+
+msgctxt "#30514"
+msgid "Réunion"
+msgstr ""
+
+msgctxt "#30515"
+msgid "Romania"
+msgstr ""
+
+msgctxt "#30516"
+msgid "Russian Federation"
+msgstr ""
+
+msgctxt "#30517"
+msgid "Rwanda"
+msgstr ""
+
+msgctxt "#30518"
+msgid "Saint Barthélemy"
+msgstr ""
+
+msgctxt "#30519"
+msgid "Saint Helena, Ascension and Tristan da Cunha"
+msgstr ""
+
+msgctxt "#30520"
+msgid "Saint Kitts and Nevis"
+msgstr ""
+
+msgctxt "#30521"
+msgid "Countries (3)"
+msgstr ""
+
+msgctxt "#30522"
+msgid "Select the countries for wich you want to view media content."
+msgstr ""
+
+msgctxt "#30523"
+msgid "Saint Lucia"
+msgstr ""
+
+msgctxt "#30524"
+msgid "Saint Martin (French part)"
+msgstr ""
+
+msgctxt "#30525"
+msgid "Saint Pierre and Miquelon"
+msgstr ""
+
+msgctxt "#30526"
+msgid "Saint Vincent and the Grenadines"
+msgstr ""
+
+msgctxt "#30527"
+msgid "Samoa"
+msgstr ""
+
+msgctxt "#30528"
+msgid "San Marino"
+msgstr ""
+
+msgctxt "#30529"
+msgid "Sao Tome and Principe"
+msgstr ""
+
+msgctxt "#30530"
+msgid "Saudi Arabia"
+msgstr ""
+
+msgctxt "#30531"
+msgid "Senegal"
+msgstr ""
+
+msgctxt "#30532"
+msgid "Serbia"
+msgstr ""
+
+msgctxt "#30533"
+msgid "Seychelles"
+msgstr ""
+
+msgctxt "#30534"
+msgid "Sierra Leone"
+msgstr ""
+
+msgctxt "#30535"
+msgid "Singapore"
+msgstr ""
+
+msgctxt "#30536"
+msgid "Sint Maarten (Dutch part)"
+msgstr ""
+
+msgctxt "#30537"
+msgid "Slovakia"
+msgstr ""
+
+msgctxt "#30538"
+msgid "Slovenia"
+msgstr ""
+
+msgctxt "#30539"
+msgid "Solomon Islands"
+msgstr ""
+
+msgctxt "#30540"
+msgid "Somalia"
+msgstr ""
+
+msgctxt "#30541"
+msgid "South Africa"
+msgstr ""
+
+msgctxt "#30542"
+msgid "South Georgia and the South Sandwich Islands"
+msgstr ""
+
+msgctxt "#30543"
+msgid "South Sudan"
+msgstr ""
+
+msgctxt "#30544"
+msgid "Spain"
+msgstr ""
+
+msgctxt "#30545"
+msgid "Sri Lanka"
+msgstr ""
+
+msgctxt "#30546"
+msgid "Sudan"
+msgstr ""
+
+msgctxt "#30547"
+msgid "Suriname"
+msgstr ""
+
+msgctxt "#30548"
+msgid "Svalbard and Jan Mayen"
+msgstr ""
+
+msgctxt "#30549"
+msgid "Swaziland"
+msgstr ""
+
+msgctxt "#30550"
+msgid "Sweden"
+msgstr ""
+
+msgctxt "#30551"
+msgid "Switzerland"
+msgstr ""
+
+msgctxt "#30552"
+msgid "Syrian Arab Republic"
+msgstr ""
+
+msgctxt "#30553"
+msgid "Taiwan, Province of China"
+msgstr ""
+
+msgctxt "#30554"
+msgid "Tajikistan"
+msgstr ""
+
+msgctxt "#30555"
+msgid "Tanzania, United Republic of"
+msgstr ""
+
+msgctxt "#30556"
+msgid "Thailand"
+msgstr ""
+
+msgctxt "#30557"
+msgid "Timor-Leste"
+msgstr ""
+
+msgctxt "#30558"
+msgid "Togo"
+msgstr ""
+
+msgctxt "#30559"
+msgid "Tokelau"
+msgstr ""
+
+msgctxt "#30560"
+msgid "Tonga"
+msgstr ""
+
+msgctxt "#30561"
+msgid "Trinidad and Tobago"
+msgstr ""
+
+msgctxt "#30562"
+msgid "Tunisia"
+msgstr ""
+
+msgctxt "#30563"
+msgid "Turkey"
+msgstr ""
+
+msgctxt "#30564"
+msgid "Turkmenistan"
+msgstr ""
+
+msgctxt "#30565"
+msgid "Turks and Caicos Islands"
+msgstr ""
+
+msgctxt "#30566"
+msgid "Tuvalu"
+msgstr ""
+
+msgctxt "#30567"
+msgid "Uganda"
+msgstr ""
+
+msgctxt "#30568"
+msgid "Ukraine"
+msgstr ""
+
+msgctxt "#30569"
+msgid "United Arab Emirates"
+msgstr ""
+
+msgctxt "#30570"
+msgid "United Kingdom"
+msgstr ""
+
+msgctxt "#30571"
+msgid "United States"
+msgstr ""
+
+msgctxt "#30572"
+msgid "United States Minor Outlying Islands"
+msgstr ""
+
+msgctxt "#30573"
+msgid "Uruguay"
+msgstr ""
+
+msgctxt "#30574"
+msgid "Uzbekistan"
+msgstr ""
+
+msgctxt "#30575"
+msgid "Vanuatu"
+msgstr ""
+
+msgctxt "#30576"
+msgid "Venezuela, Bolivarian Republic of"
+msgstr ""
+
+msgctxt "#30577"
+msgid "Viet Nam"
+msgstr ""
+
+msgctxt "#30578"
+msgid "Virgin Islands, British"
+msgstr ""
+
+msgctxt "#30579"
+msgid "Virgin Islands, U.S."
+msgstr ""
+
+msgctxt "#30580"
+msgid "Wallis and Futuna"
+msgstr ""
+
+msgctxt "#30581"
+msgid "Western Sahara"
+msgstr ""
+
+msgctxt "#30582"
+msgid "Yemen"
+msgstr ""
+
+msgctxt "#30583"
+msgid "Zambia"
+msgstr ""
+
+msgctxt "#30584"
+msgid "Zimbabwe"
+msgstr ""
+
+msgctxt "#30585"
+msgid "Add to Mega Pack Favourites"
+msgstr ""
+
+msgctxt "#30586"
+msgid "Delete from Mega Pack Favourites"
+msgstr ""
+
+msgctxt "#30587"
+msgid "Delete all Mega Pack Favourites"
+msgstr ""
+
+msgctxt "#30588"
+msgid "To activate this feature please visit:"
+msgstr ""
