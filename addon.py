@@ -25,3 +25,4 @@ from resources.lib.menu import Menu
 plugin = Plugin()
 menu = Menu(plugin)
 plugin.run(menu)
+Test
