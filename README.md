@@ -1,4 +1,4 @@
-plugin.video.megapack
-=====================
+plugin.video.megapack.dev
+=========================
 
 A video template plugin for XBMC. It standardizes menus and icons and is fully customizable. It manages feeds by categories, countries, languages and more.  It's also an addon agregator that regroups the integrated addons sections in Mega Pack standardized menu.
